@@ -2,8 +2,7 @@
 
 ## 👩‍🎓 Student Details
 -**Name:** Aditi Jha
--**Reg No.:** 25BAI11094
--**Course Code:** CSE0001 – Digital Literacy  
+-**Course Code:** CSE0001 (Digital Literacy)  
 -**Branch:** B.Tech CSE (AI & ML)  
 -**University:** VIT Bhopal University  
 
